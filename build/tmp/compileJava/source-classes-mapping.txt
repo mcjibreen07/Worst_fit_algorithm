@@ -1,0 +1,6 @@
+gradleproject1/Type_Parson.java
+ gradleproject1.Type_Parson
+gradleproject1/ParsonModel.java
+ gradleproject1.ParsonModel
+gradleproject1/Main.java
+ gradleproject1.Main
